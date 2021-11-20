@@ -14,7 +14,7 @@ My current ❤ tech stack:
 - 💻 &nbsp; Golang | Kubernetes | Cloud Native.
 - 🔧 &nbsp; NeoVim | Git | Docker
 
-### `$ whereis`
+### 📫 How to reach me
 
 [![github](https://badges.aleen42.com/src/github.svg)](https://github.com/moeryomenko)&nbsp;
 [![stackoverflow](https://badges.aleen42.com/src/stackoverflow.svg)](https://stackoverflow.com/users/7821330/maxim-eryomenko)&nbsp;
