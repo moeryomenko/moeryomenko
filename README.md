@@ -21,6 +21,6 @@ My current ❤ tech stack:
 [![telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/moeryomenko)&nbsp;
 
 
-![Maxim's github stats](https://github-readme-stats.vercel.app/api?username=moeryomenko&show_icons=true&theme=gradient)
+![Maxim's github stats](https://github-readme-stats.vercel.app/api?username=moeryomenko&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeryomenko&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeryomenko&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
