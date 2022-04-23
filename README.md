@@ -11,7 +11,7 @@ My name is Maxim.
 :new_moon_with_face: Always open minded to something new.
 
 My current ❤ tech stack:
-- 💻 &nbsp; C++ | Golang | Kubernetes | Cloud Native.
+- 💻 &nbsp; Golang | Kubernetes | Cloud Native.
 - 🔧 &nbsp; NeoVim | Git | Docker
 
 ### 📫 How to reach me
